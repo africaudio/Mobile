@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "author": "J.K Rowling",
+        "name": "Harry Potter",
+        "genre": "Fantasy",
+        "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry.",
+        "image": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/harry_potter_8film_2000x3000.jpg",
+        "completion": "100%",
+        "rating": "4"
+    },
+    {
+        "id": "2",
+        "author": "E. L. James",
+        "name": "Fifty Shades",
+        "genre": "Erotic Romance",
+        "description": "Fifty Shades is a series of erotic novels by E. L. James, initially a trilogy consisting of Fifty Shades of Grey, Fifty Shades Darker and Fifty Shades Freed. The series traces the deepening relationship between college graduate Anastasia Steele and young business man Christian Grey.",
+        "image": "http://1.bp.blogspot.com/-lqWXghPAHmM/T_wZuLPMHwI/AAAAAAAAAD0/UA_RuhM_54o/s1600/1.jpg",
+        "completion": "95%",
+        "rating": "4"
+    },
+    {
+        "id": "3",
+        "author": "Anna Todd",
+        "name": "After",
+        "genre": "Romance, contemporary",
+        "description": "After is a 2014 young adult romance novel written by American author Anna Todd and published by Gallery Books, an imprint of Simon & Schuster. After is the first installment of the After novel series. A film adaptation of the same name was released on April 12, 2019.",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982158491/the-after-collection-9781982158491.jpg",
+        "completion": "91%",
+        "rating": "4"
+    },
+    {
+        "id": "4",
+        "author": "Hajime Isayama",
+        "name": "Attack on Titan",
+        "genre": "Action, Dark fantasy, Post-apocalyptic",
+        "description": "Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. The Advancing Giants is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by three enormous walls that protect them from the gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after a Titan brings about the destruction of his hometown and the death of his mother.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg/220px-Shingeki_no_Kyojin_manga_volume_1.jpg",
+        "completion": "91%",
+        "rating": "4"
+    },
+    {
+        "id": "5",
+        "author": " Robert Kiyosaki",
+        "name": "Rich Dad poor Dad",
+        "genre": "Personal finance, entrepreneurship, business, investing, economics.",
+        "description": "Rich Dad Poor Dad is a 1997 book written by Robert T. Kiyosaki and Sharon Lechter. It advocates the importance of financial literacy, financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence. ",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470282721l/29502358._SX318_.jpg",
+        "completion": "91%",
+        "rating": "4"
+    }
+]
