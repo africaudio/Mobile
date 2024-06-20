@@ -20,4 +20,4 @@ jobs:
         run: flutter pub get
 
       - name: Build APK
-        run: flutter build apk --release -o build/flutter-build
+        run: flutter build apk
