@@ -14,8 +14,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Flutter
-        run: flutter doctor
+      # - name: Set up Flutter
+      #   run: flutter doctor
 
       - name: Install dependencies
         run: flutter pub get
