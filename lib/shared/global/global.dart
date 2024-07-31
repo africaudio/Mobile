@@ -3,6 +3,6 @@ import 'package:abook/data/models/user_profile_model.dart';
 
 late User userObj;
 late String token;
-const String baseUrl = 'https://api-oggo.onrender.com';
+const String baseUrl = 'https://api.africaudio.ng';
 String? url;
 late UserProfileModel userProfileObj;
